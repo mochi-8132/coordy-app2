@@ -1,2 +1,2 @@
-# coordy-app2
-COORDY prototype2
+# coordy-app
+COORDY prototype
